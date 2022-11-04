@@ -2,8 +2,4 @@ m1
 f1
 f2
 f3
-<<<<<<< HEAD:f_commits.txt
-feature4
-=======
 f4
->>>>>>> main:f1.txt
